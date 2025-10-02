@@ -33,6 +33,11 @@ python models.py
 - tqdm
 
 
+## Dataset
+
+The dataset can be found [here](https://archive.ics.uci.edu/dataset/186/wine+quality)
+
+
 I completed this project whilst undertaking the COM3023 module at the University of Exeter.
 
 Grade: 70/100 (graded only on report not code)
